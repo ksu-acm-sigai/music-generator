@@ -5,6 +5,7 @@ class Model:
         self.genre = genre
 
     def train_model(self):
+        """Trains the model"""
         pass
 
     def compose_song(self):
